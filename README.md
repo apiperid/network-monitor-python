@@ -25,3 +25,13 @@ The "Upload" column will contain the upload speed in Mbps\
 The "Ping" column will contain the best ping in ms
 
 The **second output** is an .png image with dpi=300 which contains two diagrams , the first will show the download and upload speed and the second will show the ping
+
+# Example
+Here i give you an example of excecuting the scripts.<br>
+The followed image shows you how to run the monitor.py from cmd.<br>
+![shell](/example/shell.png)
+When you want to stop the procedure just press Ctrl+C.<br>
+After this the script visualize.py will take action and show you the results from the csv
+![visualize](/example/network-monitor-14_04_2020.png)
+### Note!!!!!!!
+The images are not from the same experiment , they exist only for display purposes
